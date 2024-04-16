@@ -1,0 +1,3 @@
+systemctl daemon-reload
+service etcd restart
+service kube-apiserver start
