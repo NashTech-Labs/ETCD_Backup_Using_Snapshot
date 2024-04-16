@@ -1,0 +1,2 @@
+"kubectl describe pod etcd-controlplane -n kube-system"
+"cat /etc/kubernetes/manifests/etcd.yaml"
